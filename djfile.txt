@@ -1,1 +1,3 @@
 Scenario: book a ticket
+Scenario 2: book a hotel
+Scenario 3: book a resort
